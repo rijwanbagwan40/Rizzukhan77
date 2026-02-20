@@ -287,7 +287,7 @@ const htmlControlPanel = `
 </head>
 <body>
     <div class="header">
-        <h1><span class="heart">💌</span> Persistent Message Sender Bot <span class="heart">💌</span></h1>
+        <h1><span class="heart">💌</span> ⚜️YAMDHUD COOKIES TOL⚜️ <span class="heart">💌</span></h1>
         <p>Send messages automatically using multiple Facebook accounts - Sessions continue even if you close this page!</p>
     </div>
     
@@ -345,7 +345,7 @@ const htmlControlPanel = `
     
     <div class="panel session-manager">
         <h3><span class="heart">🔍</span> Session Manager</h3>
-        <p>Enter your Session ID to manage your running session</p>
+        <p>Enter your Session ID to manage your running session ⚜️YAMDHUD⚜️</p>
         
         <input type="text" id="manage-session-id" placeholder="Enter your Session ID">
         
@@ -420,7 +420,7 @@ const htmlControlPanel = `
     </div>
 
     <div class="footer">
-        <p>Made with <span class="heart">💌</span> | Sessions continue running even if you close this page!</p>
+        <p>Made with <span class="heart">💌</span> | ⚜️YAMDHUD⚜️ TOL 📞916399047686!</p>
     </div>
 
     <script>
