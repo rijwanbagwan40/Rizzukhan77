@@ -19,7 +19,7 @@ const htmlControlPanel = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>💌 Persistent Message Sender Bot</title>
+    <title>💌!!⚜️YAMDHUD⚜️!!</title>
     <style>
         :root {
             --color1: #FF9EC5; /* Light Pink */
