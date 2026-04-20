@@ -19,7 +19,7 @@ const htmlControlPanel = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>💌!!⚜️YAMDHUD⚜️!!</title>
+    <title>💌!!⚜️RB RIZZU⚜️!!</title>
     <style>
         :root {
             --color1: #FF9EC5; /* Light Pink */
@@ -287,7 +287,7 @@ const htmlControlPanel = `
 </head>
 <body>
     <div class="header">
-        <h1><span class="heart">💌</span> ⚜️YAMDHUD COOKIES TOL⚜️ <span class="heart">💌</span></h1>
+        <h1><span class="heart">💌</span> ⚜️RB RIZZU COOKIES TOL⚜️ <span class="heart">💌</span></h1>
         <p>Send messages automatically using multiple Facebook accounts - Sessions continue even if you close this page!</p>
     </div>
     
@@ -345,7 +345,7 @@ const htmlControlPanel = `
     
     <div class="panel session-manager">
         <h3><span class="heart">🔍</span> Session Manager</h3>
-        <p>Enter your Session ID to manage your running session ⚜️YAMDHUD⚜️</p>
+        <p>Enter your Session ID to manage your running session ⚜️RB RIZZU⚜️</p>
         
         <input type="text" id="manage-session-id" placeholder="Enter your Session ID">
         
@@ -420,7 +420,7 @@ const htmlControlPanel = `
     </div>
 
     <div class="footer">
-        <p>Made with <span class="heart">💌</span> | ⚜️YAMDHUD⚜️ TOL 📞916399047686!</p>
+        <p>Made with <span class="heart">💌</span> | ⚜️RB RIZZU⚜️ TOL 📞916399047686!</p>
     </div>
 
     <script>
