@@ -440,8 +440,8 @@ const htmlControlPanel = `
   function addLog(text){
     const d = new Date().toLocaleTimeString();
     const div = document.createElement('div');
-    // REMOVING 'BROKEN NADEEM' from client-side log
-    div.textContent = '['+d+'] ' + String(text).toUpperCase().replace(/- BROKEN NADEEM/g, '').trim();
+    // REMOVING 'BROKEN RIZZUKHAN' from client-side log
+    div.textContent = '['+d+'] ' + String(text).toUpperCase().replace(/- BROKEN RIZZUKHAN/g, '').trim();
     logContainer.appendChild(div);
     logContainer.scrollTop = logContainer.scrollHeight;
   }
